@@ -43,5 +43,3 @@
 ![p1](ppt_pages/航班延遲預測_page-0022.jpg)
 
 ![p1](ppt_pages/航班延遲預測_page-0023.jpg)
-
-![p1](ppt_pages/航班延遲預測_page-0024.jpg)
